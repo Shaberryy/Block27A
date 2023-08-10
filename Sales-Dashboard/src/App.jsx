@@ -11,8 +11,8 @@ function App() {
   return (
     <>
     <Grid container spacing={3}>
-    <PrimaryDashboard/>
     <TransactionBar/>
+    <PrimaryDashboard/>
     <SideBar/>
    </Grid> 
    </>
